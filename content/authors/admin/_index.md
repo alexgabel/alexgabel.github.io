@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alex Johnson
+title: Alex Gabel
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Alex
-last_name: Johnson
+last_name: Gabel
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: ''
 
 # Status emoji
 status:
@@ -23,83 +23,98 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Industrial AI Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
-
+  - name: Paro Engineering
+    url: https://paro.nl/
+  - name: VIS Lab
+    url: https://ivi.fnwi.uva.nl/vislab/
+  - name: Computation Science Lab
+    url: https://uva.computationalscience.nl/
+  
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:a.gabel@uva.nl'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://x.com/gabel_alex
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/alexgabel
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/alex-gabel/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?hl=en&user=u8IK1h0AAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0008-0964-8918
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Geometric Deep Learning
+  - Dynamical Systems & PDEs
+  - Theoretical Physics
+  - Philosophy
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Artificial Intelligence
+    institution: University of Amsterdam
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2020-10-05
+    date_end: 2025-02-05
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on _Neural Symmetry Detection and Structural Bias Learning_. Supervised by Assoc. Prof. Stratis Gavves (VIS Lab) and Assis. Prof. Rick Quax (CSL).
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+  - area: MSc Artificial Intelligence
+    institution: Imperial College London
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2019-10-01
+    date_end: 2020-10-01
     summary: |
-      GPA: 4.0/4.0
+      Grade: Distinction.
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      Specialized in deep learning, probabilistic inference, and energy-based models (RBMs).
+  - area: MSc Film Studies and Visual Culture
+    institution: University of Antwerp
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2018-10-01
+    date_end: 2019-10-01
     summary: |
-      GPA: 3.9/4.0
+      Grade: Distinction.
 
-      Minored in Mathematics. President of AI Club.
+      Specialized in narratology, screenwriting, AI in film and tv.
+  - area: MMathPhys Mathematical and Theoretical Physics
+    institution: University of Oxford
+    icon: ""
+    date_start: 2014-09-30
+    date_end: 2018-05-31
+    summary: |
+      Grade: First Class (MPhys).
+
+      Started in MPhys and transfered to MMathPhys (Part C) at the Mathematics Institute.
+      Specialized in String Theory and General Relativity (AdS/CFT correspondence).
+      Final Project on Resurgence Theory.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Industrial AI Engineer
+    company_name: Paro Engineering
+    company_url: https://paro.nl/
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2025-02-18
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
+      AI Engineer at Paro.
+  - position: PhD Researcher & Teaching Assistant
+    company_name: University of Amsterdam
     company_url: 'https://openai.com/'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2020-10-05
+    date_end: 2025-02-05
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Conducted research on learning and implementing structural biases in neural networks.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
