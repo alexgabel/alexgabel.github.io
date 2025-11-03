@@ -153,6 +153,12 @@ skills:
 languages:
   - name: English
     percent: 100
+  - name: Dutch
+    percent: 100
+  - name: French
+    percent: 95
+  - name: German
+    percent: 70
   - name: Spanish
     percent: 50
 
@@ -184,4 +190,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Alex Gabel is an Industrial AI Engineer at Paro and a PhD Candidate at the University of Amsterdam, where he is currently investigating symmetry detection and structural bias learning. His research has been published in journals such as *Scientific Reports* and IOP's *Machine Learning: Science and Technology*, including various workshops at top AI conferences. Alex is a problem-solver at heart, whether it be in the realm of AI, theoretical physics, or at the boulder hall. When not working on research, Alex enjoys watching an art-house film or reading a good book, especially one about philosophy.
