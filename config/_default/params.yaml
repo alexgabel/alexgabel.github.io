@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: indigo
+  color: violet
 
 # SEO
 marketing:
@@ -36,6 +36,10 @@ header:
     show_theme_chooser: true
     logo:
       text: 'Alex Gabel'
+      # filename: 'logo.svg'
+    highlight_active_link: true
+    show_translations: true
+    hide_language_name: false
 
 # Site footer
 footer:
@@ -55,6 +59,6 @@ locale:
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false

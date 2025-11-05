@@ -14,7 +14,7 @@ pronouns: ''
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🤖
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,7 +31,7 @@ organizations:
     url: https://paro.nl/
   - name: VIS Lab
     url: https://ivi.fnwi.uva.nl/vislab/
-  - name: Computation Science Lab
+  - name: Computational Science Lab
     url: https://uva.computationalscience.nl/
   
 # Social network links
@@ -53,8 +53,10 @@ profiles:
 
 interests:
   - Geometric Deep Learning
-  - Dynamical Systems & PDEs
+  - Dynamical Systems
+  - PDEs
   - Theoretical Physics
+  - Differential Geometry
   - Philosophy
 
 education:
@@ -95,8 +97,10 @@ education:
       Grade: First Class (MPhys).
 
       Started in MPhys and transfered to MMathPhys (Part C) at the Mathematics Institute.
+      
       Specialized in String Theory and General Relativity (AdS/CFT correspondence).
-      Final Project on Resurgence Theory.
+
+      Final Project on Resurgence Theory (supervised by Prof. Philip Candelas).
 
 work:
   - position: Industrial AI Engineer
@@ -115,6 +119,12 @@ work:
     date_end: 2025-02-05
     summary: |
       Conducted research on learning and implementing structural biases in neural networks.
+
+      Supervised Master's students: 
+
+      Pim Praat (Graph-based prediction of interactions in electricity grids & analysing the importance of ego-nodes in GNNs) [April, 2024]
+
+      Elias Dubbeldam (Equivariance-learned Layers – A method to incorporate any kind of symmetry) [July, 2024] 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
