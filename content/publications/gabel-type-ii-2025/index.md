@@ -41,8 +41,8 @@ tags:
 links:
 - type: URL
   url: https://www.nature.com/articles/s41598-025-17098-8
-# - type: code
-#   url: https://github.com/HugoBlox/hugo-blox-builder
+- type: code
+  url: content/projects/lie_paper/featured.png
 # - type: slides
 #   url: https://www.slideshare.net/
 # - type: dataset
@@ -60,8 +60,8 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
+  caption: "Model architecture illustration"
+  focal_point: Center
   preview_only: false
 
 # Associated Projects (optional).
